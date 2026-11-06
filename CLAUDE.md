@@ -14,3 +14,7 @@ This studio plans and writes email campaigns for a small business. Our sample cl
 - Write in plain English. Short sentences, everyday words.
 - Never send email to real people.
 - Ask me before deleting anything.
+
+## Brand voice
+
+@brand/voice.md
