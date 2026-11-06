@@ -41,7 +41,7 @@ Budget is small, so: **no paid ads**. Social posts can echo the emails later if 
 
 ## 5. Content calendar
 
-All emails go to the whole waitlist. Each email leans towards one group, and later each group gets its own version (step 8, `/personalize`).
+Email 01 goes to the whole waitlist. Emails 02 to 04 go to waitlist members who haven't joined yet, so new members aren't asked to join again. Each email leans towards one group, and later each group gets its own version (step 8, `/personalize`).
 
 | # | Send date | Day | Audience group | Purpose |
 |---|---|---|---|---|
