@@ -13,6 +13,7 @@ This studio plans and writes email campaigns for a small business. Our sample cl
 
 - Write in plain English. Short sentences, everyday words.
 - Never send email to real people.
+- Sending through Resend is allowed only to Resend's test addresses (ending in `@resend.dev`) and to my own email address (the `MY_EMAIL` value). A guard hook enforces this (see `.claude/hooks/send-guard.mjs`).
 - Ask me before deleting anything.
 
 ## Brand voice
